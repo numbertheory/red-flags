@@ -1,1 +1,1 @@
-console.log('This loaded on this page.')
+console.log('This loads the menu on the page.')
