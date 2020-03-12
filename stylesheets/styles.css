@@ -6,6 +6,18 @@ body {
   font-weight:400;
 }
 
+.main-content {
+  position: absolute;
+  left: 350px;
+  top: 15px;
+}
+
+.theme-credits{
+  position: absolute;
+  left: 50px;
+  bottom: 15px;
+}
+
 h1, h2, h3, h4, h5, h6 {
   color:#222;
   margin:0 0 20px;
