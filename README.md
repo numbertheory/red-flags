@@ -25,7 +25,7 @@ Not at all. With some exceptions, none of these red flags by themselves signify
 ill intent. There are a wide variety of personalities, opinions, and perspectives
 online, and we should be
 
-## You're some <INSERT-AD-HOMINEM-CHARACTERIZATION> shill.
+## You're some \<INSERT-AD-HOMINEM-CHARACTERIZATION\> shill.
 
 That's not a question.
 
