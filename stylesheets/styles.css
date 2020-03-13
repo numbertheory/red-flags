@@ -9,6 +9,7 @@ body {
 .main-content {
   position: absolute;
   left: 350px;
+  margin-right: 40px;
   top: 15px;
 }
 
