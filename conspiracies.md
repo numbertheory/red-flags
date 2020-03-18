@@ -8,8 +8,8 @@ preview: "Conspiracies are fun, until they're not."
 # Conspiracies
 
 <blockquote class="classic-quote">
-“Civilization is a conspiracy. Modern life is the silent compact of comfortable folk to keep up pretences.”
-– <i>John Buchland</i>
+“History is much more the product of chaos than of conspiracy.”
+– <i>Zbigniew Brzezinski</i>
 </blockquote>
 <br />
 
