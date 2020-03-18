@@ -1,16 +1,18 @@
 # Social Media Red Flags
 
-A perspective.
+A perspective on interactions in social media.
 
 ## What is this site?
 
 This site aims to offer some perspectives of specific online behaviors. These
 behaviors may indicate a user on social media is either not considering a
-subject in good faith, or has ill intentions with the audience.
+subject in good faith, or has ill intentions with the audience.  We call these
+"red flags" since they are very visible warnings that may be obvious to some
+but undetected by the people that need the warning the most.
 
 ## So, like a fact-checker?
 
-Not exactly. While people who spread misinformation and disinformation online
+Not exactly. While people who spread mis- and disinformation online
 do so with lies and fabrications, simply fact checking them is largely unproductive.
 People with ill intentions already have defenses ready to dispute any fact-checking,
 so arming people with information on patterns of behavior may be more effective.
@@ -23,7 +25,9 @@ candidate, or issue.
 
 Not at all. With some exceptions, none of these red flags by themselves signify
 ill intent. There are a wide variety of personalities, opinions, and perspectives
-online, and we should be
+online, and we should be respectful of reasonable opinions, and be prepared to
+discuss them reasonably. The red flags mostly center around when someone is pushing
+reason to the sidelines.
 
 ## You're some \<INSERT-AD-HOMINEM-CHARACTERIZATION\> shill.
 
