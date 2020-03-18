@@ -1,3 +1,7 @@
+---
+title: "Compassionless"
+preview: "Why spreading stoicism is not always helpful."
+---
 
 <img src="red-flag.png" />
 
